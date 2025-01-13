@@ -36,7 +36,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "6261595158"))
 #port set to default 8080
 PORT = os.environ.get("PORT", "8080")
 #your database url mongodb only You can use mongo atlas free cloud database
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://gangstertown3dbeat:gangstertown3dbeat@cluster0.ny8rz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://gangstertown3dbeat:u4AbtSLMKWWz0UVu@cluster0.ny8rz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 #your database name
 DB_NAME = os.environ.get("DB_NAME", "sample_mflix")
 
